@@ -1,0 +1,24 @@
+{
+  "name": "code-match",
+  "version": "1.0.0",
+  "description": "Search an object's code for pattern matches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneit/code-match.git"
+  },
+  "author": "Jonathan Eiten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneit/code-match/issues"
+  },
+  "homepage": "https://github.com/joneit/code-match#readme",
+  "dependencies": {
+    "object-catalog": "^1.1.2",
+    "match-point": "^1.0.0",
+    "greylist": "^2.1.0"
+  }
+}
